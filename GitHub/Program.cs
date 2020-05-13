@@ -8,6 +8,7 @@ namespace GitHub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Git Check");
+            Console.WriteLine("Branch Test");
         }
     }
 }
