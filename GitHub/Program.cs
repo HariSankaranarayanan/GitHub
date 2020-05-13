@@ -10,6 +10,7 @@ namespace GitHub
             Console.WriteLine("Git Check");
             Console.WriteLine("Branch Test");
             Console.WriteLine("SIT Test");
+            Console.WriteLine("UAT Test");
         }
     }
 }
